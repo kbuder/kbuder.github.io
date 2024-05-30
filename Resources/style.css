@@ -22,9 +22,11 @@ body {
     background-color: white;
     box-sizing: border-box;
     border-style: dotted 3px;
+    text-align: center;
 }
 
 .portfolio {
     font-size: 25px;
     box-sizing: border-box;
+    text-align: center;
 }
