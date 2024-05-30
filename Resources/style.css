@@ -1,7 +1,30 @@
-h1 {
+body {
+    background-color: azure;
+}
+
+.h1 {
     font-size: 40px;
-    color: blanchedalmond
-    background-color: black
+    font-weight: bold;
+    color:aqua;
     width: 100%;
     text-align: center;
+    background-color: darkcyan;
+}
+
+.h2 {
+    font-size: 35px;
+    font-weight: 100;
+    border: 3px dotted #0088dd;
+}
+
+.intro {
+    font-size: 30px;
+    background-color: white;
+    box-sizing: border-box;
+    border-style: dotted 3px;
+}
+
+.portfolio {
+    font-size: 25px;
+    box-sizing: border-box;
 }
