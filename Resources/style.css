@@ -9,13 +9,14 @@ body {
     width: 100%;
     text-align: center;
     background-color: darkcyan;
-    letter-spacing: 5px;
+    letter-spacing: 20px;
 }
 
 .h2 h2 {
     font-size: 35px;
     font-weight: 100;
     border: 3px dotted #0088dd;
+    text-align: center;
 }
 
 .intro intro {
