@@ -9,7 +9,9 @@ body {
     width: 100%;
     text-align: center;
     background-color: darkcyan;
-    letter-spacing: 20px;
+    letter-spacing: 70px;
+    position: absolut;
+    top-space: 0px;
 }
 
 .h2 h2 {
